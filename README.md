@@ -46,12 +46,13 @@
 - 🎯 Clean architectures with **real-world impact**
 
 ---
+## 🎯 Current Focus & Goals
 
-## 🌈 **Current Focus**
-- 🔥 Advanced **Deep Learning**  
-- 🔥 Production-grade **MLOps**  
-- 🔥 AI × Cloud Systems Engineering  
-
+<p align="left">
+    <img src="https://img.shields.io/badge/Advanced_Deep_Learning-53A548?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Production--Grade_MLOps-8A2BE2?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI_Cloud_Systems_Engineering-0078D4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
 ---
 
 ## 🎓 **Certifications**
