@@ -62,7 +62,6 @@
     <img src="https://img.shields.io/badge/Deep_Learning_with_PyTorch-IBM-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google_Cloud_Facilitator-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
----
 
 ## 🤝 **Connect With Me**
 📍 Kolkata, India  
