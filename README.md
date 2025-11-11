@@ -61,32 +61,28 @@ I love creating real-world impactful applications that combine **ML + Software +
 
 ---
 
-# 📌 Featured Projects
+## 🧩 Featured Projects
 
-### 🧠 Brain Tumor Detection Web App  
-✔️ CNN with 90% accuracy  
-✔️ Flask UI for real-time MRI classification  
-🔗 https://github.com/DishaChakraborty-11/Brain-Tumor-Detection  
+<p align="center">
+  
+  <a href="https://github.com/DishaChakraborty-11/Brain-Tumor-Detection">
+    <img src="https://img.shields.io/badge/Brain%20Tumor%20Detection-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </a>
 
----
+  <a href="https://github.com/DishaChakraborty-11/invoice-ai-expense-tracker">
+    <img src="https://img.shields.io/badge/Invoice%20AI%20Expense%20Tracker-FF6FFF?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
 
-### 🧾 Invoice AI Expense Tracker  
-✔️ OCR + Gemini API automation  
-✔️ Streamlit dashboard & insights  
-🔗 https://github.com/DishaChakraborty-11/invoice-ai-expense-tracker  
+  <a href="https://github.com/DishaChakraborty-11/Landmark-Detection-ML">
+    <img src="https://img.shields.io/badge/Landmark%20Detection-7A00FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </a>
 
----
+  <a href="https://github.com/DishaChakraborty-11/AI-Resume-Analyzer">
+    <img src="https://img.shields.io/badge/AI%20Resume%20Analyzer-FF77D8?style=for-the-badge&logo=ai&logoColor=white" />
+  </a>
 
-### 🗺️ Landmark Detection (CNN)  
-✔️ Image classification with TensorFlow & Keras  
-🔗 https://github.com/DishaChakraborty-11/Landmark-Detection-ML/tree/main  
+</p>
 
----
-
-### 📄 AI Resume Analyzer  
-✔️ NLP-based ATS scoring  
-✔️ Streamlit real-time analysis  
-🔗 https://github.com/DishaChakraborty-11/AI-Resume-Analyzer  
 
 ---
 
