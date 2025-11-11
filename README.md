@@ -50,6 +50,7 @@
       <img src="https://img.shields.io/badge/Java-E5C1FF?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/C-BDE0FE?style=flat-square"/>
     </td>
+   </tr>
     
   <tr>
     <!-- ML & AI -->
@@ -59,6 +60,7 @@
       <img src="https://img.shields.io/badge/Keras-A7F3D0?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/Scikit--Learn-FDE68A?style=flat-square"/>
     </td>
+ </tr>
 
    <tr>
     <!-- Frameworks & Tools -->
@@ -69,6 +71,7 @@
       <img src="https://img.shields.io/badge/Numpy-D1FAE5?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/Matplotlib-E9D5FF?style=flat-square"/>
     </td>
+   </tr>
 
    <tr>
     <!-- Cloud -->
