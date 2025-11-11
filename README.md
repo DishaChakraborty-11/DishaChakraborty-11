@@ -19,20 +19,73 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Now-FF7BFF?style=for-the-badge)](https://disha-chakraborty-w822137.gamma.site/)
 
 ---
+<!-- 🩷 Pastel Header -->
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Hi!_I'm_Disha-FFC6E8?style=for-the-badge&logoColor=white" />
+</h2>
 
-<div align="center">
-
-## 🌸 <span style="font-size:28px; font-weight:700;">About Me</span>
-
-<p style="font-size:17px;">
-Hi! I'm <strong style="color:#FF7EB9;">Disha</strong> — an 
-<strong style="color:#A06DF2;">AI/ML Engineer</strong> crafting intelligent systems that blend  
-<strong style="color:#FFB85F;">Machine Learning</strong> × 
-<strong style="color:#7BD3EA;">Software Engineering</strong> × 
-<strong style="color:#6EE7B7;">Cloud</strong>.
+<p align="center">
+  <em>AI/ML Engineer crafting intelligent systems that blend</em><br>
+  <strong>Machine Learning × Software Engineering × Cloud</strong>
 </p>
 
-</div>
+---
+
+## 🎨 **Tech Palette (Pastel Edition)**
+
+### ⭐ Languages  
+<img src="https://img.shields.io/badge/Python-FFD1DC?style=flat-square"/>  
+<img src="https://img.shields.io/badge/Java-E5C1FF?style=flat-square"/>  
+<img src="https://img.shields.io/badge/C-BDE0FE?style=flat-square"/>
+
+### 🤖 Machine Learning & AI  
+<img src="https://img.shields.io/badge/TensorFlow-FCC2D7?style=flat-square"/>  
+<img src="https://img.shields.io/badge/PyTorch-D8B4FE?style=flat-square"/>  
+<img src="https://img.shields.io/badge/Keras-A7F3D0?style=flat-square"/>  
+<img src="https://img.shields.io/badge/Scikit--Learn-FDE68A?style=flat-square"/>
+
+### 🧰 Frameworks & Tools  
+<img src="https://img.shields.io/badge/Flask-FBCFE8?style=flat-square"/>  
+<img src="https://img.shields.io/badge/Streamlit-C7D2FE?style=flat-square"/>  
+<img src="https://img.shields.io/badge/Pandas-FFE5B4?style=flat-square"/>  
+<img src="https://img.shields.io/badge/Numpy-D1FAE5?style=flat-square"/>  
+<img src="https://img.shields.io/badge/Matplotlib-E9D5FF?style=flat-square"/>
+
+### ☁️ Cloud  
+<img src="https://img.shields.io/badge/GCP-E0BBE4?style=flat-square"/>  
+<img src="https://img.shields.io/badge/BigQuery-FFF1C9?style=flat-square"/>  
+<img src="https://img.shields.io/badge/Kubernetes-CBD5F0?style=flat-square"/>
+
+---
+
+## 🚀 **What I Love Building**
+- 🌸 Scalable **AI applications**  
+- 🪄 End-to-end **ML Pipelines**  
+- ☁️ Cloud-deployed **ML Systems**  
+- 🎯 Clean architectures with **real-world impact**
+
+---
+
+## 🌈 **Current Focus**
+- 🔥 Advanced **Deep Learning**  
+- 🔥 Production-grade **MLOps**  
+- 🔥 AI × Cloud Systems Engineering  
+
+---
+
+## 🎓 **Certifications**
+✅ ML Specialization – Andrew Ng  
+✅ Deep Learning with PyTorch – IBM  
+✅ Google Cloud Facilitator Program  
+
+---
+
+## 🤝 **Connect With Me**
+📍 Kolkata, India  
+📧 chakrabortydisha809@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/disha-chakraborty-283465291/  
+🔗 Portfolio: https://disha-chakraborty-w822137.gamma.site/
+
 
 ---
 
