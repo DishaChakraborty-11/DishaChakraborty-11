@@ -55,11 +55,13 @@
 </p>
 
 
-## 🎓 **Certifications**
-✅ ML Specialization – Andrew Ng  
-✅ Deep Learning with PyTorch – IBM  
-✅ Google Cloud Facilitator Program  
+## 🏆 Certifications
 
+<p align="left">
+    <img src="https://img.shields.io/badge/ML_Specialization-Andrew_Ng-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Deep_Learning_with_PyTorch-IBM-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google_Cloud_Facilitator-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
 ---
 
 ## 🤝 **Connect With Me**
