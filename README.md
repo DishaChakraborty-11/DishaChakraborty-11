@@ -1,7 +1,6 @@
 <!-- Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=60&duration=3500&pause=700&color=FF66C4&center=true&vCenter=true&width=600&lines=Disha+Chakraborty" />
-</h1>
+![DISHA CHAKRABORTY banner](data:image/svg+xml;base64,PHN2ZyB4bW...iBvcGFjaXR5PSIwLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4=)
+
 
 <!-- Typing Effect -->
 <p align="center">
