@@ -1,8 +1,7 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=50&duration=4000&pause=800&color=FF66C4&center=true&vCenter=true&width=800&lines=Disha+Chakraborty;AI%2FML+Engineer;Deep+Learning+%26+NLP+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=60&duration=3500&pause=700&color=FF66C4&center=true&vCenter=true&width=600&lines=Disha+Chakraborty" />
 </h1>
-
 
 <!-- Typing Effect -->
 <p align="center">
