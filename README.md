@@ -31,22 +31,28 @@
 
 ---
 
-## 🎨 Tech Palette (Pastel Edition)
+## 🎨 Tech Palette 
+
+<h3>🎨 Tech Palette (Pastel Edition)</h3>
 
 <table>
   <tr>
-    <td align="center"><b>⭐ Languages</b></td>
-    <td align="center"><b>🤖 Machine Learning & AI</b></td>
-    <td align="center"><b>🧰 Frameworks & Tools</b></td>
-    <td align="center"><b>☁️ Cloud</b></td>
+    <th>⭐ Languages</th>
+    <th>🤖 Machine Learning & AI</th>
+    <th>🧰 Frameworks & Tools</th>
+    <th>☁️ Cloud</th>
   </tr>
 
   <tr>
+    <!-- Languages -->
     <td align="center">
       <img src="https://img.shields.io/badge/Python-FFD1DC?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/Java-E5C1FF?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/C-BDE0FE?style=flat-square"/>
-
+    </td>
+    
+  <tr>
+    <!-- ML & AI -->
     <td align="center">
       <img src="https://img.shields.io/badge/TensorFlow-FCC2D7?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/PyTorch-D8B4FE?style=flat-square"/><br>
@@ -54,6 +60,8 @@
       <img src="https://img.shields.io/badge/Scikit--Learn-FDE68A?style=flat-square"/>
     </td>
 
+   <tr>
+    <!-- Frameworks & Tools -->
     <td align="center">
       <img src="https://img.shields.io/badge/Flask-FBCFE8?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/Streamlit-C7D2FE?style=flat-square"/><br>
@@ -62,6 +70,8 @@
       <img src="https://img.shields.io/badge/Matplotlib-E9D5FF?style=flat-square"/>
     </td>
 
+   <tr>
+    <!-- Cloud -->
     <td align="center">
       <img src="https://img.shields.io/badge/GCP-E0BBE4?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/BigQuery-FFF1C9?style=flat-square"/><br>
