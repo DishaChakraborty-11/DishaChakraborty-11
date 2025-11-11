@@ -1,9 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FFFFFF&text=Disha%20Chakraborty&fontColor=7d00ff&fontSize=52&stroke=ff66c4&strokeWidth=2&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20NLP&descSize=17&descColor=8A2BE2&descAlignY=70" />
-</p>
-
-<br><br>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=50&duration=4000&pause=800&color=FF66C4&center=true&vCenter=true&width=800&lines=Disha+Chakraborty;AI%2FML+Engineer;Deep+Learning+%26+NLP+Enthusiast" />
+</h1>
 
 
 <!-- Typing Effect -->
