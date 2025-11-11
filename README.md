@@ -121,15 +121,6 @@
 </p>
 
 
----
-
-# 🎓 Certifications  
-✅ Machine Learning Specialization – Andrew Ng  
-✅ Deep Learning with PyTorch – IBM  
-✅ Google Cloud Facilitator Program  
-
----
-
 # 📊 GitHub Analytics & Stats
 
 <p align="center">
@@ -148,16 +139,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DishaChakraborty-11&left_color=purple&right_color=pink" />
 </p>
 
----
 
-# 🤝 Connect With Me
-
-📍 Kolkata, India  
-📧 **chakrabortydisha809@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/disha-chakraborty-283465291/  
-🔗 **Portfolio:** https://disha-chakraborty-w822137.gamma.site/  
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer" />
