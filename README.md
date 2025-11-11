@@ -42,14 +42,11 @@
   </tr>
 
   <tr>
-    <!-- Languages -->
     <td align="center">
       <img src="https://img.shields.io/badge/Python-FFD1DC?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/Java-E5C1FF?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/C-BDE0FE?style=flat-square"/>
-    </td>
 
-  <!-- ML & AI -->
     <td align="center">
       <img src="https://img.shields.io/badge/TensorFlow-FCC2D7?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/PyTorch-D8B4FE?style=flat-square"/><br>
@@ -57,7 +54,6 @@
       <img src="https://img.shields.io/badge/Scikit--Learn-FDE68A?style=flat-square"/>
     </td>
 
-    <!-- Frameworks & Tools -->
     <td align="center">
       <img src="https://img.shields.io/badge/Flask-FBCFE8?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/Streamlit-C7D2FE?style=flat-square"/><br>
@@ -66,7 +62,6 @@
       <img src="https://img.shields.io/badge/Matplotlib-E9D5FF?style=flat-square"/>
     </td>
 
-    <!-- Cloud -->
     <td align="center">
       <img src="https://img.shields.io/badge/GCP-E0BBE4?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/BigQuery-FFF1C9?style=flat-square"/><br>
@@ -109,39 +104,51 @@
 ---
 
 ## 🎨 **Tech Palette**
+## 🎨 Tech Palette (Pastel Edition)
 
-<div style="display:flex; gap:10px; flex-wrap:wrap;">
+<table>
+  <tr>
+    <td align="center"><b>⭐ Languages</b></td>
+    <td align="center"><b>🤖 Machine Learning & AI</b></td>
+    <td align="center"><b>🧰 Frameworks & Tools</b></td>
+    <td align="center"><b>☁️ Cloud</b></td>
+  </tr>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-FF7EB9?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-A06DF2?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Vision-7BD3EA?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-FF5757?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FFB85F?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-6EE7B7?style=for-the-badge&logo=flask&logoColor=black" />
-<img src="https://img.shields.io/badge/Streamlit-FE6D73?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-A06DF2?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/BigQuery-7BD3EA?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <tr>
+    <!-- LANGUAGES -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-FFD1DC?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/Java-E5C1FF?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/C-BDE0FE?style=flat-square"/>
+    </td>
 
-</div>
+    <!-- ML & AI -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/TensorFlow-FCC2D7?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/PyTorch-D8B4FE?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/Keras-A7F3D0?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/Scikit--Learn-FDE68A?style=flat-square"/>
+    </td>
 
----
+    <!-- FRAMEWORKS & TOOLS -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flask-FBCFE8?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/Streamlit-C7D2FE?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/Pandas-FFE5B4?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/Numpy-D1FAE5?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/Matplotlib-E9D5FF?style=flat-square"/>
+    </td>
 
-## 🚀 **What I Love Building**
+    <!-- CLOUD -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/GCP-E0BBE4?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/BigQuery-FFF1C9?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/Kubernetes-CBD5F0?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
-<div style="
-background: linear-gradient(135deg, #FF7EB9, #A06DF2);
-padding: 18px; 
-border-radius: 14px; 
-color: white;
-font-size: 15px;
-">
 
-✅ Scalable AI-powered applications  
-✅ End-to-end ML Pipelines  
-✅ Cloud-deployed ML systems  
-✅ Clean architectures with real-user impact  
-
-</div>
 
 ---
 
