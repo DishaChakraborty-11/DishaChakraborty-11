@@ -33,7 +33,6 @@
 
 ## 🎨 Tech Palette 
 
-<h3>🎨 Tech Palette (Pastel Edition)</h3>
 
 <table>
   <tr>
