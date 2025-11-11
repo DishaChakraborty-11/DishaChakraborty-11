@@ -1,9 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=8A2BE2&text=Disha%20Chakraborty&fontColor=FFFFFF&fontSize=45&section=header&desc=AI/ML%20Engineer%20•%20Deep%20Learning%20•%20NLP&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=8A2BE2&text=Disha%20Chakraborty&fontColor=FFFFFF&fontSize=45&section=header&desc=
 </p>
-
-<br><br>
 
 
 <!-- Typing Effect -->
