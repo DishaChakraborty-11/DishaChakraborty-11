@@ -38,10 +38,14 @@
 | :--- | :--- |
 | <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=matplotlib&logoColor=white"/> | <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> |
 ---
-### 🏗️ What I Love Building
+What I Love Building
 
-<img src="https://raw.githubusercontent.com/half-blood-prince-24/half-blood-prince-24/main/assets/developer-activity-4.svg" alt="Animated Developer Activity Graph" height="30px"/>  <img src="https://img.shields.io/badge/Scalable_AI_Applications-FF69B4?style=for-the-badge&logo=appveyor&logoColor=white"/> <img src="https://img.shields.io/badge/End--to--End_ML_Pipelines-8A2BE2?style=for-the-badge&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud--Deployed_ML_Systems-1E90FF?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+### 💡 Core Strengths:
 
+* **Scalable AI Applications** 🚀
+* **End-to-end ML Pipelines** ⚙️
+* **Cloud-deployed ML Systems** ☁️
+* **Clean Architectures with Real-world Impact** 🎯
 ---
 ## 🎯 Current Focus & Goals
 
