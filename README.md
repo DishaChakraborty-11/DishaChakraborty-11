@@ -20,45 +20,74 @@
 
 ---
 
-<h2 align="center">👩‍💻 About Me</h2>
+<div align="center">
 
-<p align="center">
-  Hi! I'm <strong>Disha</strong>, an 
-  <span style="color:#FF69B4;font-weight:600;">AI/ML Engineer</span>  
-  passionate about building intelligent, scalable systems that blend  
-  <span style="color:#A445E3;">Machine Learning</span> • 
-  <span style="color:#0088FF;">Software Engineering</span> • 
-  <span style="color:#FFB800;">Cloud</span>.
+## 🌸 <span style="font-size:28px; font-weight:700;">About Me</span>
+
+<p style="font-size:17px;">
+Hi! I'm <strong style="color:#FF7EB9;">Disha</strong> — an 
+<strong style="color:#A06DF2;">AI/ML Engineer</strong> crafting intelligent systems that blend  
+<strong style="color:#FFB85F;">Machine Learning</strong> × 
+<strong style="color:#7BD3EA;">Software Engineering</strong> × 
+<strong style="color:#6EE7B7;">Cloud</strong>.
 </p>
 
----
-
-<h3>🔍 Tech Stack</h3>
-
-<ul>
-  <li><strong style="color:#FF69B4;">Core ML:</strong> Deep Learning • NLP • Computer Vision</li>
-  <li><strong style="color:#A445E3;">Frameworks:</strong> PyTorch • TensorFlow</li>
-  <li><strong style="color:#0088FF;">Development:</strong> Flask • Streamlit</li>
-  <li><strong style="color:#FFB800;">Cloud & Data:</strong> Google Cloud • BigQuery • Data Engineering</li>
-</ul>
+</div>
 
 ---
 
-<h3>🚀 What I Love Building</h3>
-<ul>
-  <li>Real-world ML applications with clean architectures</li>
-  <li>Cloud-deployed AI systems</li>
-  <li>Full ML pipelines from data → model → deployment</li>
-</ul>
+## 🎨 **Tech Palette**
+
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF7EB9?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-A06DF2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-7BD3EA?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-FF5757?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FFB85F?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-6EE7B7?style=for-the-badge&logo=flask&logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-FE6D73?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-A06DF2?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-7BD3EA?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+
+</div>
 
 ---
 
-<h3>🌟 Current Focus</h3>
-<ul>
-  <li>Advanced Deep Learning</li>
-  <li>Production-grade ML Ops</li>
-  <li>End-to-end AI system design</li>
-</ul>
+## 🚀 **What I Love Building**
+
+<div style="
+background: linear-gradient(135deg, #FF7EB9, #A06DF2);
+padding: 18px; 
+border-radius: 14px; 
+color: white;
+font-size: 15px;
+">
+
+✅ Scalable AI-powered applications  
+✅ End-to-end ML Pipelines  
+✅ Cloud-deployed ML systems  
+✅ Clean architectures with real-user impact  
+
+</div>
+
+---
+
+## 🌈 **Current Focus**
+
+<div style="
+background: linear-gradient(135deg, #7BD3EA, #6EE7B7);
+padding: 16px; 
+border-radius: 14px; 
+color: black;
+font-size: 15px;
+">
+
+🔥 Advanced Deep Learning  
+🔥 Production-grade MLOps  
+🔥 AI + Cloud Systems Engineering  
+
+</div>
 
 
 ---
