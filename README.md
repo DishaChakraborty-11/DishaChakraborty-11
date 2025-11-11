@@ -68,56 +68,6 @@
 🔗 Portfolio: https://disha-chakraborty-w822137.gamma.site/
 
 
----
-
-## 🎨 **Tech Palette**
-## 🎨 Tech Palette (Pastel Edition)
-
-<table>
-  <tr>
-    <td align="center"><b>⭐ Languages</b></td>
-    <td align="center"><b>🤖 Machine Learning & AI</b></td>
-    <td align="center"><b>🧰 Frameworks & Tools</b></td>
-    <td align="center"><b>☁️ Cloud</b></td>
-  </tr>
-
-  <tr>
-    <!-- LANGUAGES -->
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-FFD1DC?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/Java-E5C1FF?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/C-BDE0FE?style=flat-square"/>
-    </td>
-
-    <!-- ML & AI -->
-    <td align="center">
-      <img src="https://img.shields.io/badge/TensorFlow-FCC2D7?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/PyTorch-D8B4FE?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/Keras-A7F3D0?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/Scikit--Learn-FDE68A?style=flat-square"/>
-    </td>
-
-    <!-- FRAMEWORKS & TOOLS -->
-    <td align="center">
-      <img src="https://img.shields.io/badge/Flask-FBCFE8?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/Streamlit-C7D2FE?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/Pandas-FFE5B4?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/Numpy-D1FAE5?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/Matplotlib-E9D5FF?style=flat-square"/>
-    </td>
-
-    <!-- CLOUD -->
-    <td align="center">
-      <img src="https://img.shields.io/badge/GCP-E0BBE4?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/BigQuery-FFF1C9?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/Kubernetes-CBD5F0?style=flat-square"/>
-    </td>
-  </tr>
-</table>
-
-
-
----
 
 ## 🌈 **Current Focus**
 
