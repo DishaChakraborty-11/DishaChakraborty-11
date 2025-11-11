@@ -1,10 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FFFFFF&text=Disha%20Chakraborty&fontColor=ff3cc7&fontSize=52&stroke=8A2BE2&strokeWidth=2&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20NLP&descSize=17&descColor=8A2BE2&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FFFFFF&text=Disha%20Chakraborty&fontColor=e600ac&fontSize=55&stroke=8A2BE2&strokeWidth=3&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20NLP&descSize=17&descColor=8A2BE2&descAlignY=70" />
 </p>
 
 <br><br>
-
 
 <!-- Typing Effect -->
 <p align="center">
