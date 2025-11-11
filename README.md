@@ -20,13 +20,46 @@
 
 ---
 
-## 👩‍💻 About Me
-Hi! I'm **Disha**, an AI/ML Engineer passionate about building intelligent systems using:  
-✅ Deep Learning • NLP • CV  
-✅ Flask • Streamlit • PyTorch • TensorFlow  
-✅ Data Processing • Cloud ML • GCP • BigQuery  
+<h2 align="center">👩‍💻 About Me</h2>
 
-I love creating real-world impactful applications that combine **ML + Software + Cloud**.
+<p align="center">
+  Hi! I'm <strong>Disha</strong>, an 
+  <span style="color:#FF69B4;font-weight:600;">AI/ML Engineer</span>  
+  passionate about building intelligent, scalable systems that blend  
+  <span style="color:#A445E3;">Machine Learning</span> • 
+  <span style="color:#0088FF;">Software Engineering</span> • 
+  <span style="color:#FFB800;">Cloud</span>.
+</p>
+
+---
+
+<h3>🔍 Tech Stack</h3>
+
+<ul>
+  <li><strong style="color:#FF69B4;">Core ML:</strong> Deep Learning • NLP • Computer Vision</li>
+  <li><strong style="color:#A445E3;">Frameworks:</strong> PyTorch • TensorFlow</li>
+  <li><strong style="color:#0088FF;">Development:</strong> Flask • Streamlit</li>
+  <li><strong style="color:#FFB800;">Cloud & Data:</strong> Google Cloud • BigQuery • Data Engineering</li>
+</ul>
+
+---
+
+<h3>🚀 What I Love Building</h3>
+<ul>
+  <li>Real-world ML applications with clean architectures</li>
+  <li>Cloud-deployed AI systems</li>
+  <li>Full ML pipelines from data → model → deployment</li>
+</ul>
+
+---
+
+<h3>🌟 Current Focus</h3>
+<ul>
+  <li>Advanced Deep Learning</li>
+  <li>Production-grade ML Ops</li>
+  <li>End-to-end AI system design</li>
+</ul>
+
 
 ---
 
