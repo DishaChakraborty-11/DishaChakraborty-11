@@ -69,23 +69,6 @@
 
 
 
-## 🌈 **Current Focus**
-
-<div style="
-background: linear-gradient(135deg, #7BD3EA, #6EE7B7);
-padding: 16px; 
-border-radius: 14px; 
-color: black;
-font-size: 15px;
-">
-
-🔥 Advanced Deep Learning  
-🔥 Production-grade MLOps  
-🔥 AI + Cloud Systems Engineering  
-
-</div>
-
-
 ---
 
 # 🛠️ Tech Stack & Tools
