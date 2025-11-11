@@ -59,7 +59,7 @@
       <img src="https://img.shields.io/badge/Keras-A7F3D0?style=flat-square"/><br>
       <img src="https://img.shields.io/badge/Scikit--Learn-FDE68A?style=flat-square"/>
     </td>
- </tr>
+    </tr>
 
    <tr>
     <!-- Frameworks & Tools -->
